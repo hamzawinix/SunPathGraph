@@ -1,5 +1,6 @@
 # SunPathGraph
 Collection of scripts that shows the sun path in sky in an accurate and aesthitic manner
+
 ![image](https://user-images.githubusercontent.com/34142795/127962950-45ac841f-640a-4c2e-b4ea-ef08067b19df.png)
 ![image](https://user-images.githubusercontent.com/34142795/127962986-86367b07-6cb3-439d-b35b-9369c44fb33e.png)
 ![image](https://user-images.githubusercontent.com/34142795/127963020-552e85d8-e278-4e6a-8436-7c07962b4d5d.png)
